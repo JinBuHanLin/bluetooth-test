@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
+    }
+]

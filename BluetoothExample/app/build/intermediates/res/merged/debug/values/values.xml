@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <attr format="reference" name="actionBarDivider"/>
+    <attr format="reference" name="actionBarItemBackground"/>
+    <attr format="dimension" name="actionBarSize"/>
+    <attr format="reference" name="actionBarSplitStyle"/>
+    <attr format="reference" name="actionBarStyle"/>
+    <attr format="reference" name="actionBarTabBarStyle"/>
+    <attr format="reference" name="actionBarTabStyle"/>
+    <attr format="reference" name="actionBarTabTextStyle"/>
+    <attr format="reference" name="actionBarWidgetTheme"/>
+    <attr format="reference" name="actionButtonStyle"/>
+    <attr format="reference" name="actionMenuTextAppearance"/>
+    <attr format="color|reference" name="actionMenuTextColor"/>
+    <attr format="reference" name="actionModeBackground"/>
+    <attr format="reference" name="actionModeCloseButtonStyle"/>
+    <attr format="reference" name="actionModeCloseDrawable"/>
+    <attr format="reference" name="actionModeCopyDrawable"/>
+    <attr format="reference" name="actionModeCutDrawable"/>
+    <attr format="reference" name="actionModeFindDrawable"/>
+    <attr format="reference" name="actionModePasteDrawable"/>
+    <attr format="reference" name="actionModePopupWindowStyle"/>
+    <attr format="reference" name="actionModeSelectAllDrawable"/>
+    <attr format="reference" name="actionModeShareDrawable"/>
+    <attr format="reference" name="actionModeSplitBackground"/>
+    <attr format="reference" name="actionModeStyle"/>
+    <attr format="reference" name="actionModeWebSearchDrawable"/>
+    <attr format="reference" name="actionOverflowButtonStyle"/>
+    <attr format="reference" name="activityChooserViewStyle"/>
+    <attr format="reference" name="buttonBarButtonStyle"/>
+    <attr format="reference" name="buttonBarStyle"/>
+    <attr format="reference" name="dividerHorizontal"/>
+    <attr format="reference" name="dividerVertical"/>
+    <attr format="reference" name="dropDownListViewStyle"/>
+    <attr format="dimension" name="height"/>
+    <attr format="reference" name="homeAsUpIndicator"/>
+    <attr format="boolean" name="isLightTheme"/>
+    <attr format="reference" name="listPopupWindowStyle"/>
+    <attr format="dimension" name="listPreferredItemHeight"/>
+    <attr format="dimension" name="listPreferredItemHeightLarge"/>
+    <attr format="dimension" name="listPreferredItemHeightSmall"/>
+    <attr format="dimension" name="listPreferredItemPaddingLeft"/>
+    <attr format="dimension" name="listPreferredItemPaddingRight"/>
+    <attr format="reference" name="searchDropdownBackground"/>
+    <attr format="dimension" name="searchResultListItemHeight"/>
+    <attr format="reference" name="searchViewAutoCompleteTextView"/>
+    <attr format="reference" name="searchViewCloseIcon"/>
+    <attr format="reference" name="searchViewEditQuery"/>
+    <attr format="reference" name="searchViewEditQueryBackground"/>
+    <attr format="reference" name="searchViewGoIcon"/>
+    <attr format="reference" name="searchViewSearchIcon"/>
+    <attr format="reference" name="searchViewTextField"/>
+    <attr format="reference" name="searchViewTextFieldRight"/>
+    <attr format="reference" name="searchViewVoiceIcon"/>
+    <attr format="reference" name="selectableItemBackground"/>
+    <attr format="reference" name="spinnerDropDownItemStyle"/>
+    <attr format="reference" name="spinnerStyle"/>
+    <attr format="reference" name="textAppearanceLargePopupMenu"/>
+    <attr format="reference" name="textAppearanceListItem"/>
+    <attr format="reference" name="textAppearanceListItemSmall"/>
+    <attr format="reference" name="textAppearanceSearchResultSubtitle"/>
+    <attr format="reference" name="textAppearanceSearchResultTitle"/>
+    <attr format="reference" name="textAppearanceSmallPopupMenu"/>
+    <attr format="reference|color" name="textColorSearchUrl"/>
+    <attr format="string" name="title"/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+    <declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr format="dimension" name="itemPadding"/></declare-styleable>
+    <declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable>
+    <declare-styleable name="ActionBarWindow"><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowSplitActionBar"/><attr format="dimension|fraction" name="windowFixedWidthMajor"/><attr format="dimension|fraction" name="windowFixedHeightMinor"/><attr format="dimension|fraction" name="windowFixedWidthMinor"/><attr format="dimension|fraction" name="windowFixedHeightMajor"/></declare-styleable>
+    <declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable>
+    <declare-styleable name="ActionMenuView"/>
+    <declare-styleable name="ActionMode"><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr name="background"/><attr name="backgroundSplit"/><attr name="height"/></declare-styleable>
+    <declare-styleable name="ActivityChooserView"><attr format="string" name="initialActivityCount"/><attr format="reference" name="expandActivityOverflowButtonDrawable"/></declare-styleable>
+    <declare-styleable name="CompatTextView"><attr format="reference|boolean" name="textAllCaps"/></declare-styleable>
+    <declare-styleable name="LinearLayoutICS"><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
+    <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
+    <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
+    <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr name="android:preserveIconSpacing"/></declare-styleable>
+    <declare-styleable name="SearchView"><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/></declare-styleable>
+    <declare-styleable name="Spinner"><attr format="reference" name="prompt"/><attr format="enum" name="spinnerMode"><enum name="dialog" value="0"/><enum name="dropdown" value="1"/></attr><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr format="reference" name="popupPromptView"/><attr name="android:gravity"/><attr format="boolean" name="disableChildrenWhenDisabled"/></declare-styleable>
+    <declare-styleable name="Theme"><attr format="reference" name="actionDropDownStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="popupMenuStyle"/><attr format="dimension" name="panelMenuListWidth"/><attr format="reference" name="panelMenuListTheme"/><attr format="reference" name="listChoiceBackgroundIndicator"/></declare-styleable>
+    <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/></declare-styleable>
+    <dimen name="abc_action_bar_default_height">48dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">8dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">40dp</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48dp</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">5dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abc_action_bar_title_text_size">18dp</dimen>
+    <dimen name="abc_action_button_min_width">56dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">320dp</dimen>
+    <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abc_panel_menu_list_width">296dp</dimen>
+    <dimen name="abc_search_view_preferred_width">320dip</dimen>
+    <dimen name="abc_search_view_text_min_width">160dip</dimen>
+    <dimen name="action_bar_switch_padding">16dip</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_icon_size">56dip</dimen>
+    <dimen name="appwidget_min_height">40dip</dimen>
+    <dimen name="appwidget_min_width">260dip</dimen>
+    <dimen name="appwidget_preview_height">80dip</dimen>
+    <dimen name="appwidget_preview_width">140dip</dimen>
+    <dimen name="bind_app_widget_dialog_checkbox_bottom_padding">16dip</dimen>
+    <dimen name="captioning_preview_height">200dp</dimen>
+    <dimen name="circle_avatar_frame_shadow_radius">3dp</dimen>
+    <dimen name="circle_avatar_frame_stroke_width">1dp</dimen>
+    <dimen name="circle_avatar_size">48dp</dimen>
+    <dimen name="content_margin_left">16dip</dimen>
+    <dimen name="crypt_clock_size">100sp</dimen>
+    <dimen name="data_usage_chart_height">252dip</dimen>
+    <dimen name="data_usage_chart_optimalWidth">440dip</dimen>
+    <dimen name="description_margin_sides">40dip</dimen>
+    <dimen name="description_margin_top">26dip</dimen>
+    <dimen name="device_memory_usage_button_height">32dip</dimen>
+    <dimen name="device_memory_usage_button_width">16dip</dimen>
+    <item name="dialog_fixed_height_major" type="dimen">80%</item>
+    <item name="dialog_fixed_height_minor" type="dimen">100%</item>
+    <item name="dialog_fixed_width_major" type="dimen">320dp</item>
+    <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
+    <dimen name="divider_height">3dip</dimen>
+    <dimen name="divider_margin_bottom">7dip</dimen>
+    <dimen name="divider_margin_top">6dip</dimen>
+    <dimen name="header_icon_width">28dp</dimen>
+    <dimen name="installed_app_details_bullet_offset">8dip</dimen>
+    <dimen name="keyguard_appwidget_picker_margin_left">6dip</dimen>
+    <dimen name="keyguard_appwidget_picker_margin_right">6dip</dimen>
+    <dimen name="keyguard_appwidget_picker_max_width">800dip</dimen>
+    <dimen name="pager_tabs_padding">0dp</dimen>
+    <dimen name="screen_margin_bottom">48dip</dimen>
+    <dimen name="screen_margin_sides">64dip</dimen>
+    <dimen name="screen_margin_top">72dip</dimen>
+    <dimen name="settings_side_margin">@*android:dimen/preference_fragment_padding_side</dimen>
+    <item name="setup_border_width" type="dimen">5%</item>
+    <dimen name="setup_button_size">32dip</dimen>
+    <dimen name="setup_item_margin">16dip</dimen>
+    <dimen name="setup_margin_bottom">0dip</dimen>
+    <item name="setup_title_height" type="dimen">15%</item>
+    <dimen name="setup_title_size">25dp</dimen>
+    <dimen name="update_user_photo_popup_min_width">300dip</dimen>
+    <dimen name="vert_divider_width">1dip</dimen>
+    <dimen name="volume_seekbar_side_margin">8dip</dimen>
+    <item name="action_bar_activity_content" type="id"/>
+    <item name="action_menu_divider" type="id"/>
+    <item name="action_menu_presenter" type="id"/>
+    <item name="home" type="id"/>
+    <item name="progress_circular" type="id"/>
+    <item name="progress_horizontal" type="id"/>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="keyguard_appwidget_picker_cols">1</integer>
+    <plurals name="lockpassword_password_requires_letters">
+            <item quantity="one">Password must contain at least 1 letter.</item>
+            <item quantity="other">Password must contain at least %d letters.</item>
+        </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+            <item quantity="one">Password must contain at least 1 lowercase letter.</item>
+<item quantity="other">
+Password must contain at least %d lowercase letters.
+</item>
+        </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+<item quantity="one">
+Password must contain at least 1 non-letter character.
+</item>
+<item quantity="other">
+Password must contain at least %d non-letter characters.
+</item>
+        </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+            <item quantity="one">Password must contain at least 1 numerical digit.</item>
+<item quantity="other">
+Password must contain at least %d numerical digits.
+</item>
+        </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+            <item quantity="one">Password must contain at least 1 special symbol.</item>
+            <item quantity="other">Password must contain at least %d special symbols.</item>
+        </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+            <item quantity="one">Password must contain at least 1 uppercase letter.</item>
+<item quantity="other">
+Password must contain at least %d uppercase letters.
+</item>
+        </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+            <item quantity="one">%d app can read notifications</item>
+            <item quantity="other">%d apps can read notifications</item>
+        </plurals>
+    <plurals name="show_dev_countdown">
+<item quantity="one">
+You are now
+<ns1:g id="step_count">%1$d</ns1:g>
+step away from being a developer.
+</item>
+<item quantity="other">
+You are now
+<ns1:g id="step_count">%1$d</ns1:g>
+steps away from being a developer.
+</item>
+        </plurals>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="activity_picker_label">Choose activity</string>
+    <string name="airplane_mode">Airplane mode</string>
+    <string name="allow">Allow</string>
+    <string name="android_beam_disabled_summary">Unavailable because NFC is turned off</string>
+    <string name="android_beam_label">Android Beam</string>
+    <string name="android_beam_off_summary">Off</string>
+    <string name="android_beam_on_summary">Ready to transmit app content via NFC</string>
+    <string name="android_beam_settings_title">Android Beam</string>
+    <string name="app_name">BluetoothExample</string>
+    <string name="backup_lock_settings_picker_title">Choose backup lock</string>
+    <string name="band_mode_failed">Unsuccessful</string>
+    <string name="band_mode_loading">Loading band list\u2026</string>
+    <string name="band_mode_set">Set</string>
+    <string name="band_mode_succeeded">Successful</string>
+    <string name="band_mode_title">Set GSM/UMTS band</string>
+    <string name="battery_info_awake_battery">Awake time on battery:</string>
+    <string name="battery_info_awake_plugged">Awake time when charging:</string>
+    <string name="battery_info_health_cold">Cold</string>
+    <string name="battery_info_health_dead">Dead</string>
+    <string name="battery_info_health_good">Good</string>
+    <string name="battery_info_health_label">Battery health:</string>
+    <string name="battery_info_health_over_voltage">Over voltage</string>
+    <string name="battery_info_health_overheat">Overheat</string>
+    <string name="battery_info_health_unknown">Unknown</string>
+    <string name="battery_info_health_unspecified_failure">Unknown error</string>
+    <string name="battery_info_label">Battery info</string>
+    <string name="battery_info_level_label">Battery level:</string>
+    <string name="battery_info_power_ac">AC</string>
+    <string name="battery_info_power_ac_usb">AC+USB</string>
+    <string name="battery_info_power_label">Power plug:</string>
+    <string name="battery_info_power_unknown">Unknown</string>
+    <string name="battery_info_power_unplugged">Unplugged</string>
+    <string name="battery_info_power_usb">USB</string>
+    <string name="battery_info_power_wireless">wireless</string>
+    <string name="battery_info_scale_label">Battery scale:</string>
+    <string name="battery_info_screen_on">Screen ON time:</string>
+    <string name="battery_info_status_charging">Charging</string>
+    <string name="battery_info_status_charging_ac">(AC)</string>
+    <string name="battery_info_status_charging_usb">(USB)</string>
+    <string name="battery_info_status_charging_wireless">(wireless)</string>
+    <string name="battery_info_status_discharging">Not charging</string>
+    <string name="battery_info_status_full">Full</string>
+    <string name="battery_info_status_label">Battery status:</string>
+    <string name="battery_info_status_not_charging">Not charging</string>
+    <string name="battery_info_status_unknown">Unknown</string>
+    <string name="battery_info_technology_label">Battery technology:</string>
+    <string name="battery_info_temperature_label">Battery temperature:</string>
+    <string name="battery_info_temperature_units">\u00B0 C</string>
+    <string name="battery_info_uptime">Time since boot:</string>
+    <string name="battery_info_voltage_label">Battery voltage:</string>
+    <string name="battery_info_voltage_units">mV</string>
+    <string name="biometric_weak_improve_matching_title">Improve face matching</string>
+    <string msgid="7980026533493781616" name="biometric_weak_liveliness_summary">Require eye blink while unlocking</string>
+    <string name="biometric_weak_liveliness_title">Liveness check</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Use for media audio</string>
+    <string name="bluetooth_advanced_titlebar">Advanced Bluetooth</string>
+    <string name="bluetooth_ask_discovery" product="default">
+An app wants to make your phone visible to other Bluetooth devices for
+<ns1:g id="timeout">%1$d</ns1:g>
+seconds.
+</string>
+    <string name="bluetooth_ask_enablement">An app wants to turn on Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_discovery" product="default">
+An app wants to turn on Bluetooth and make your phone visible to other devices for
+<ns1:g id="timeout">%1$d</ns1:g>
+seconds.
+</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">
+An app wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.
+</string>
+    <string name="bluetooth_ask_lasting_discovery" product="default">
+An app wants to make your phone visible to other Bluetooth devices. You can change this later in Bluetooth settings.
+</string>
+    <string name="bluetooth_auto_connect">Auto-connect</string>
+    <string name="bluetooth_confirm_passkey_msg">
+To pair with:<br><b>
+<ns1:g id="device_name">%1$s</ns1:g>
+</b></br>
+    <br>Make sure it is showing this passkey:</br><b>
+<ns1:g id="passkey">%2$s</ns1:g>
+</b>
+</string>
+    <string name="bluetooth_connect_specific_profiles_title">Connect to\u2026</string>
+    <string name="bluetooth_connect_success">蓝牙已自动配对成功</string>
+    <string name="bluetooth_connected">Connected</string>
+    <string name="bluetooth_connected_no_a2dp">Connected (no media)</string>
+    <string name="bluetooth_connected_no_headset">Connected (no phone)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Connected (no phone or media)</string>
+    <string name="bluetooth_connected_no_map">Connected (no message access)</string>
+    <string name="bluetooth_connecting">Connecting\u2026</string>
+    <string name="bluetooth_connecting_error_message">
+Couldn\'t connect to
+<ns1:g id="device_name">%1$s</ns1:g>
+.
+</string>
+    <string name="bluetooth_connection_dialog_text">
+"Do you want to connect to \u0022
+<ns1:g id="device_name">%1$s</ns1:g>
+\u0022?"
+</string>
+    <string name="bluetooth_connection_notif_message">
+"Touch to connect to \u0022
+<ns1:g id="device_name">%1$s</ns1:g>
+\u0022."
+</string>
+    <string name="bluetooth_connection_permission_request">"Bluetooth connection request"</string>
+    <string name="bluetooth_device">Unnamed Bluetooth device</string>
+    <string name="bluetooth_device_advanced_enable_opp_title">Allow incoming file transfers</string>
+    <string name="bluetooth_device_advanced_online_mode_summary">Connect to Bluetooth device</string>
+    <string name="bluetooth_device_advanced_online_mode_title">Connect</string>
+    <string name="bluetooth_device_advanced_profile_header_title">Profiles</string>
+    <string name="bluetooth_device_advanced_rename_device">Rename</string>
+    <string name="bluetooth_device_advanced_title">Paired Bluetooth device</string>
+    <string name="bluetooth_device_context_connect">Connect</string>
+    <string name="bluetooth_device_context_connect_advanced">Options\u2026</string>
+    <string name="bluetooth_device_context_disconnect">Disconnect</string>
+    <string name="bluetooth_device_context_disconnect_unpair">Disconnect unpair</string>
+    <string name="bluetooth_device_context_pair_connect">Pair connect</string>
+    <string name="bluetooth_device_context_unpair">Unpair</string>
+    <string name="bluetooth_device_details">Device settings</string>
+    <string name="bluetooth_device_name">Device name</string>
+    <string name="bluetooth_devices">Bluetooth devices</string>
+    <string name="bluetooth_disable_profile_message">
+    This will disable:
+        <br>
+            <b>
+                <ns1:g id="profile_name">%1$s</ns1:g>
+            </b>
+        </br>
+        <br>From:
+        </br>
+        <b>
+        <ns1:g id="device_name">%2$s</ns1:g>
+        </b>
+    </string>
+    <string name="bluetooth_disable_profile_title">Disable profile?</string>
+    <string name="bluetooth_disconnect_a2dp_profile">
+<ns1:g id="device_name">%1$s</ns1:g>
+will be disconnected from media audio.
+</string>
+    <string name="bluetooth_disconnect_all_profiles">
+    This will end your connection with:
+        <br>
+        <b>
+            <ns1:g id="device_name">%1$s</ns1:g>
+        </b>
+        </br>
+    </string>
+    <string name="bluetooth_disconnect_headset_profile">
+<ns1:g id="device_name">%1$s</ns1:g>
+will be disconnected from handsfree audio.
+</string>
+    <string name="bluetooth_disconnect_hid_profile">
+<ns1:g id="device_name">%1$s</ns1:g>
+will be disconnected from input device.
+</string>
+    <string name="bluetooth_disconnect_pan_nap_profile" product="default">
+<ns1:g id="device_name">%1$s</ns1:g>
+will be disconnected from sharing this phone\'s Internet connection.
+</string>
+    <string name="bluetooth_disconnect_title">Disconnect?</string>
+    <string name="bluetooth_disconnected">Disconnected</string>
+    <string name="bluetooth_disconnecting">Disconnecting\u2026</string>
+    <string name="bluetooth_display_passkey_pin_msg">
+To pair with:
+<ns1:g id="bold1"/>
+<ns1:g id="device_name">%1$s</ns1:g>
+<ns1:g id="end_bold1"/>
+Type on it:
+<ns1:g id="bold2"/>
+<ns1:g id="passkey">%2$s</ns1:g>
+<ns1:g id="end_bold2"/>
+, then press Return or Enter.
+</string>
+    <string name="bluetooth_dock_settings">Dock Settings</string>
+    <string name="bluetooth_dock_settings_a2dp">For music and media</string>
+    <string name="bluetooth_dock_settings_headset">As speaker phone</string>
+    <string name="bluetooth_dock_settings_remember">Remember settings</string>
+    <string name="bluetooth_dock_settings_title">Use dock for audio</string>
+    <string name="bluetooth_empty_list_bluetooth_off">To see devices, turn Bluetooth on.</string>
+    <string name="bluetooth_enable_alphanumeric_pin">PIN contains letters or symbols</string>
+    <string name="bluetooth_enter_passkey_msg">
+To pair with:
+<ns1:g id="bold"/>
+<ns1:g id="device_name">%1$s</ns1:g>
+<ns1:g id="end_bold"/>
+Type the device\'s required passkey:
+</string>
+    <string name="bluetooth_enter_passkey_other_device">
+You may also need to type this passkey on the other device.
+</string>
+    <string name="bluetooth_enter_pin_msg">
+    To pair with:
+        <ns1:g id="bold"/>
+        <ns1:g id="device_name">%1$s</ns1:g>
+        <ns1:g id="end_bold">Type the device\'s required PIN:</ns1:g>
+    </string>
+    <string name="bluetooth_enter_pin_other_device">
+You may also need to type this PIN on the other device.
+</string>
+    <string name="bluetooth_error_title"/>
+    <string name="bluetooth_headset_profile_summary_connected">Connected to phone audio</string>
+    <string name="bluetooth_headset_profile_summary_use_for">Use for phone audio</string>
+    <string name="bluetooth_hid_profile_summary_connected">Connected to input device</string>
+    <string name="bluetooth_hid_profile_summary_use_for">Use for input</string>
+    <string name="bluetooth_incoming_pairing_msg">
+From:<br><b>
+<ns1:g id="device_name">%1$s</ns1:g>
+</b></br><br>Pair with this device?</br>
+</string>
+    <string name="bluetooth_is_discoverable">
+Visible to all nearby Bluetooth devices (
+<ns1:g id="discoverable_time_period">%1$s</ns1:g>
+)
+</string>
+    <string name="bluetooth_is_discoverable_always">Visible to all nearby Bluetooth devices</string>
+    <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
+    <string name="bluetooth_lock_voice_dialing_summary">
+Prevent use of the bluetooth dialer when the screen is locked
+</string>
+    <string name="bluetooth_map_acceptance_dialog_text">
+%1$s wants to access your messages. Give access to %2$s?
+</string>
+    <string name="bluetooth_map_profile_summary_connected">Connected to map</string>
+    <string name="bluetooth_map_profile_summary_use_for">Use for map</string>
+    <string name="bluetooth_map_request">"Message access request"</string>
+    <string name="bluetooth_menu_advanced">Advanced</string>
+    <string name="bluetooth_name_not_set">No name set, using account name</string>
+    <string name="bluetooth_no_devices_found">No nearby Bluetooth devices were found.</string>
+    <string name="bluetooth_not_visible_to_other_devices">Not visible to other Bluetooth devices</string>
+    <string name="bluetooth_notif_message">
+Touch to pair with
+<ns1:g id="device_name">%1$s</ns1:g>
+.
+</string>
+    <string name="bluetooth_notif_ticker">Bluetooth pairing request</string>
+    <string name="bluetooth_notif_title">Pairing request</string>
+    <string name="bluetooth_only_visible_to_paired_devices">Only visible to paired devices</string>
+    <string name="bluetooth_opp_profile_summary_connected">Connected to file transfer server</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Not connected to file transfer server</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Use for file transfer</string>
+    <string name="bluetooth_pairing">Pairing\u2026</string>
+    <string name="bluetooth_pairing_accept">Pair</string>
+    <string name="bluetooth_pairing_decline">Cancel</string>
+    <string name="bluetooth_pairing_device_down_error_message">
+Can\'t communicate with
+<ns1:g id="device_name">%1$s</ns1:g>
+.
+</string>
+    <string name="bluetooth_pairing_error_message">
+Couldn\'t pair with
+<ns1:g id="device_name">%1$s</ns1:g>
+.
+</string>
+    <string name="bluetooth_pairing_pin_error_message">
+Couldn\'t pair with
+<ns1:g id="device_name">%1$s</ns1:g>
+because of an incorrect PIN or passkey.
+</string>
+    <string name="bluetooth_pairing_rejected_error_message">
+Pairing rejected by
+<ns1:g id="device_name">%1$s</ns1:g>
+.
+</string>
+    <string name="bluetooth_pairing_request">Bluetooth pairing request</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Sharing local Internet connection with device</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Use for Internet access</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Connected to device for Internet access</string>
+    <string name="bluetooth_pb_acceptance_dialog_text">
+%1$s wants to access your contacts and call history. Give access to %2$s?
+</string>
+    <string name="bluetooth_pb_remember_choice">Don\'t ask again</string>
+    <string name="bluetooth_permission_request">"Bluetooth permission request"</string>
+    <string name="bluetooth_phonebook_request">"Phone book access request"</string>
+    <string name="bluetooth_pin_values_hint">Usually 0000 or 1234</string>
+    <string name="bluetooth_preference_device_settings">Device settings</string>
+    <string name="bluetooth_preference_found_devices">Available devices</string>
+    <string name="bluetooth_preference_paired_devices">Paired devices</string>
+    <string name="bluetooth_preference_scan_title">Scan for devices</string>
+    <string name="bluetooth_profile_a2dp">Media audio</string>
+    <string name="bluetooth_profile_details">Profile settings</string>
+    <string name="bluetooth_profile_headset">Phone audio</string>
+    <string name="bluetooth_profile_hid">Input device</string>
+    <string name="bluetooth_profile_map">Message Access</string>
+    <string name="bluetooth_profile_opp">File transfer</string>
+    <string name="bluetooth_profile_pan">Internet access</string>
+    <string name="bluetooth_profile_pan_nap">Internet connection sharing</string>
+    <string name="bluetooth_quick_toggle_summary">Turn on Bluetooth</string>
+    <string name="bluetooth_quick_toggle_title">Bluetooth</string>
+    <string name="bluetooth_remember_choice">Don\'t ask again</string>
+    <string name="bluetooth_rename_button">Rename</string>
+    <string name="bluetooth_rename_device" product="default">Rename phone</string>
+    <string name="bluetooth_scan_for_devices">Scan for devices</string>
+    <string name="bluetooth_search_for_devices">Search for devices</string>
+    <string name="bluetooth_searching_for_devices">Searching\u2026</string>
+    <string name="bluetooth_settings">Bluetooth</string>
+    <string name="bluetooth_settings_summary">
+Manage connections, set device name discoverability
+</string>
+    <string name="bluetooth_settings_title">Bluetooth</string>
+    <string name="bluetooth_show_received_files">Show received files</string>
+    <string name="bluetooth_turning_off">"Turning Bluetooth off\u2026"</string>
+    <string name="bluetooth_turning_on">"Turning Bluetooth on\u2026"</string>
+    <string name="bluetooth_unknown"/>
+    <string name="bluetooth_visibility_timeout">Visibility timeout</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="btn_autopair_label">自动配对蓝牙设备</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="cancel">Cancel</string>
+    <string name="cdma_security_settings_summary">
+Set My Location, screen unlock, credential storage lock
+</string>
+    <string name="choose_timezone">Choose time zone</string>
+    <string name="conn_blue_toolth_device">连接蓝牙设备</string>
+    <string name="connect">Connect a device</string>
+    <string name="create">Create</string>
+    <string name="crypt_keeper_button_text" product="default">Encrypt phone</string>
+    <string name="crypt_keeper_confirm_title">Encrypt?</string>
+    <string name="crypt_keeper_cooldown">
+Try again in
+<ns1:g example="15" id="delay">^1</ns1:g>
+seconds.
+</string>
+    <string name="crypt_keeper_desc" product="default">
+You can encrypt your accounts, settings, downloaded apps and their data, media, and other files. Once you encrypt your phone, you need to type a numeric PIN or password to decrypt it each time you power it on. You can\'t decrypt your phone except by performing a factory data reset, erasing all your data.\n\nEncryption takes an hour or more. You must start with a charged battery and keep your phone plugged in until encryption is complete. If you interrupt the encryption process, you will lose some or all of your data.
+</string>
+    <string name="crypt_keeper_dialog_need_password_message">
+You need to set a lock screen PIN or password before you can start encryption.
+</string>
+    <string name="crypt_keeper_dialog_need_password_title">No lock screen PIN or password</string>
+    <string name="crypt_keeper_encrypt_summary" product="default">
+Require a numeric PIN or password to decrypt your phone each time you power it on
+</string>
+    <string name="crypt_keeper_encrypt_title" product="default">Encrypt phone</string>
+    <string name="crypt_keeper_encrypted_summary">Encrypted</string>
+    <string name="crypt_keeper_enter_password">Type your password</string>
+    <string name="crypt_keeper_failed_summary" product="default">
+Encryption was interrupted and can\'t complete. As a result, the data on your phone is no longer accessible. \n\nTo resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you\'ll have an opportunity to restore any data that was backed up to your Google Account.
+</string>
+    <string name="crypt_keeper_failed_title">Encryption unsuccessful</string>
+    <string name="crypt_keeper_final_desc" product="default">
+The encryption operation is irreversible and if you interrupt it, you\'ll lose data. Encryption takes an hour or more, during which the phone will restart several times.
+</string>
+    <string name="crypt_keeper_low_charge_text">Charge your battery and try again.</string>
+    <string name="crypt_keeper_setup_description" product="default">
+Wait while your phone is being encrypted.
+<ns1:g example="50" id="percent">^1</ns1:g>
+% complete.
+</string>
+    <string name="crypt_keeper_setup_title">Encrypting</string>
+    <string name="crypt_keeper_switch_input_method">Switch input method</string>
+    <string name="crypt_keeper_unplugged_text">Plug in your charger and try again.</string>
+    <string name="date_and_time">Date  time settings</string>
+    <string name="date_and_time_settings_summary">Set date, time, time zone,  formats</string>
+    <string name="date_and_time_settings_title">Date time</string>
+    <string name="date_and_time_settings_title_setup_wizard">Set date and time</string>
+    <string name="date_picker_title">Date</string>
+    <string name="date_time_24hour">Use 24-hour format</string>
+    <string name="date_time_auto">Automatic date time</string>
+    <string name="date_time_auto_summaryOff">Use network-provided time</string>
+    <string name="date_time_auto_summaryOn">Use network-provided time</string>
+    <string name="date_time_date_format">Choose date format</string>
+    <string name="date_time_set_date">Set date</string>
+    <string name="date_time_set_time">Set time</string>
+    <string name="date_time_set_timezone">Select time zone</string>
+    <string name="debug_intent_sender_label">Debug intent sender</string>
+    <string name="default_date_format">
+<ns1:g id="default_date_format">MM/dd/yyyy</ns1:g>
+</string>
+    <string name="deny">Deny</string>
+    <string name="device_admin_title">Device administration</string>
+    <string name="device_info_default">Unknown</string>
+    <string name="device_info_label">Device info</string>
+    <string name="device_picker">Bluetooth device chooser</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="display_font_size_label">Font size:</string>
+    <string name="display_label">Screen</string>
+    <string name="display_preview_label">Preview:</string>
+    <string name="find_blue_toolth_device">查找蓝牙设备</string>
+    <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
+    <string name="font_size_save">OK</string>
+    <string name="getScale">Get Scale</string>
+    <string name="header_category_device">DEVICE</string>
+    <string name="header_category_personal">PERSONAL</string>
+    <string name="header_category_system">SYSTEM</string>
+    <string name="header_category_wireless_networks">WIRELESS  NETWORKS</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="ims_reg_required_off">Turn off IMS registration required</string>
+    <string name="ims_reg_required_on">Turn on IMS registration required</string>
+    <string name="intent_sender_account_label">Account:</string>
+    <string name="intent_sender_action_label">
+<ns1:g id="action">Action</ns1:g>
+:
+</string>
+    <string name="intent_sender_data_label">
+<ns1:g id="data">Data:</ns1:g>
+</string>
+    <string name="intent_sender_resource_label">
+<ns1:g id="resource">Resource</ns1:g>
+:
+</string>
+    <string name="intent_sender_sendbroadcast_text">
+Send
+<ns1:g id="broadcast">broadcast</ns1:g>
+</string>
+    <string name="intent_sender_startactivity_text">
+Start
+<ns1:g id="activity">activity</ns1:g>
+</string>
+    <string name="language_picker_title">Language</string>
+    <string name="large_font">Large</string>
+    <string name="location_settings_title">Location</string>
+    <string name="lock_after_timeout">Automatically lock</string>
+    <string name="lock_after_timeout_summary">
+<ns1:g id="timeout_string">%1$s</ns1:g>
+after sleep
+</string>
+    <string name="lock_settings_picker_title">Choose screen lock</string>
+    <string msgid="5507462851158901718" name="lock_setup">Setup is complete.</string>
+    <string name="lockpassword_cancel_label">Cancel</string>
+    <string name="lockpassword_continue_label">Continue</string>
+    <string name="lockpassword_illegal_character">Password contains an illegal character.</string>
+    <string name="lockpassword_ok_label">OK</string>
+    <string name="lockpassword_password_recently_used">
+Device administrator doesn\'t allow using a recent password.
+</string>
+    <string name="lockpassword_password_requires_alpha">Password must contain at least one letter.</string>
+    <string name="lockpassword_password_requires_digit">Password must contain at least one digit.</string>
+    <string name="lockpassword_password_requires_symbol">Password must contain at least one symbol.</string>
+    <string name="lockpassword_password_too_long">
+Password must be fewer than
+<ns1:g example="17" id="number">%d</ns1:g>
+characters.
+</string>
+    <string name="lockpassword_password_too_short">Password must be at least %d characters</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN must contain only digits 0-9.</string>
+    <string name="lockpassword_pin_recently_used">
+Device administrator doesn\'t allow using a recent PIN.
+</string>
+    <string name="lockpassword_pin_too_long">
+PIN must be fewer than
+<ns1:g example="17" id="number">%d</ns1:g>
+digits.
+</string>
+    <string name="lockpassword_pin_too_short">PIN must be at least %d digits</string>
+    <string name="lockpassword_press_continue">Touch Continue when done</string>
+    <string name="lockpattern_tutorial_cancel_label">Cancel</string>
+    <string name="lockpattern_tutorial_continue_label">Next</string>
+    <string name="lte_ram_dump_off">Turn off lte ram dump</string>
+    <string name="lte_ram_dump_on">Turn on lte ram dump</string>
+    <string name="manage_device_admin">Device administrators</string>
+    <string name="manage_device_admin_summary">View or deactivate device administrators</string>
+    <string name="manage_notification_access">Notification access</string>
+    <string name="manage_notification_access_summary_zero">Apps cannot read notifications</string>
+    <string name="medium_font">Medium</string>
+    <string name="networks">Operator selection</string>
+    <string name="next_label">Next</string>
+    <string name="no">"No"</string>
+    <string name="no_notification_listeners">No notification listeners are installed.</string>
+    <string name="none_found">No devices found</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="normal_date_format">
+Regional (
+<ns1:g example="12-31-2009" id="date">%s</ns1:g>
+)
+</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="notification_listener_security_warning_summary">
+<ns1:g id="notification_listener_name">%1$s</ns1:g>
+will be able to read all notifications posted by the system or any installed app, which may include personal information such as contact names and the text of messages sent to you. It will also be able to dismiss these notifications or touch action buttons within them.
+</string>
+    <string name="notification_listener_security_warning_title">
+Enable
+<ns1:g example="NotificationReader" id="service">%1$s</ns1:g>
+?
+</string>
+    <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
+    <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
+    <string name="owner_info_settings_summary"/>
+    <string name="owner_info_settings_title">Owner info</string>
+    <string name="phone_info_label" product="default">Phone info</string>
+    <string name="ping_test_label">Run ping test</string>
+    <string name="profile_info_settings_title">Profile info</string>
+    <string name="progress_scanning">Searching</string>
+    <string name="proxy_action_text">Done</string>
+    <string name="proxy_clear_text">Clear</string>
+    <string name="proxy_defaultView_text">Restore defaults</string>
+    <string name="proxy_error">Attention</string>
+    <string name="proxy_error_dismiss">OK</string>
+    <string name="proxy_error_empty_host_set_port">
+The port field must be empty if the host field is empty.
+</string>
+    <string name="proxy_error_empty_port">You need to complete the port field.</string>
+    <string name="proxy_error_invalid_exclusion_list">
+The exclusion list you typed isn\'t properly formatted. Type a comma-separated list of excluded domains.
+</string>
+    <string name="proxy_error_invalid_host">The hostname you typed isn\'t valid.</string>
+    <string name="proxy_error_invalid_port">The port you typed isn\'t valid.</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_exclusionlist_label">Bypass proxy for</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_hostname_label">Proxy hostname</string>
+    <string name="proxy_port_hint" translatable="false">8080</string>
+    <string name="proxy_port_label">Proxy port</string>
+    <string name="proxy_settings_label">Proxy settings</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_warning_limited_support">
+The HTTP proxy is used by the browser but may not be used by the other apps.
+</string>
+    <string name="radioInfo_cid">CID</string>
+    <string name="radioInfo_data_connected">Connected</string>
+    <string name="radioInfo_data_connecting">Connecting</string>
+    <string name="radioInfo_data_disconnected">Disconnected</string>
+    <string name="radioInfo_data_suspended">Suspended</string>
+    <string name="radioInfo_display_asu">asu</string>
+    <string name="radioInfo_display_bytes">bytes</string>
+    <string name="radioInfo_display_dbm">dBm</string>
+    <string name="radioInfo_display_packets">pkts</string>
+    <string name="radioInfo_lac">LAC</string>
+    <string name="radioInfo_menu_getPDP">Get PDP list</string>
+    <string name="radioInfo_menu_viewADN">View SIM address book</string>
+    <string name="radioInfo_menu_viewFDN">View Fixed Dialing Numbers</string>
+    <string name="radioInfo_menu_viewSDN">View Service Dialing Numbers</string>
+    <string name="radioInfo_phone_idle">Idle</string>
+    <string name="radioInfo_phone_offhook">Call in progress</string>
+    <string name="radioInfo_phone_ringing">Ringing</string>
+    <string name="radioInfo_roaming_in">Roaming</string>
+    <string name="radioInfo_roaming_not">Not roaming</string>
+    <string name="radioInfo_service_emergency">Emergency calls only</string>
+    <string name="radioInfo_service_in">In service</string>
+    <string name="radioInfo_service_off">Radio off</string>
+    <string name="radioInfo_service_out">Out of service</string>
+    <string name="radioInfo_unknown">unknown</string>
+    <string name="radio_controls_summary">
+Manage Wi\u2011Fi, Bluetooth, airplane mode, mobile networks,  VPNs
+</string>
+    <string name="radio_controls_title">More\u2026</string>
+    <string name="radio_info_band_mode_label">Select radio band</string>
+    <string name="radio_info_call_redirect_label">Call redirect:</string>
+    <string name="radio_info_call_status_label">Call status:</string>
+    <string name="radio_info_cellinfo_label">CellInfo:</string>
+    <string name="radio_info_current_network_label">Current network:</string>
+    <string name="radio_info_data_attempts_label">Data attempts:</string>
+    <string name="radio_info_data_successes_label">Data successes:</string>
+    <string name="radio_info_gprs_service_label">GPRS service:</string>
+    <string name="radio_info_gsm_disconnects_label">GSM disconnects:</string>
+    <string name="radio_info_gsm_service_label">GSM service:</string>
+    <string name="radio_info_http_client_test">HTTP Client test:</string>
+    <string name="radio_info_imei_label">IMEI:</string>
+    <string name="radio_info_message_waiting_label">Message waiting:</string>
+    <string name="radio_info_neighboring_location_label">Neighboring CID:</string>
+    <string name="radio_info_network_type_label">Network type:</string>
+    <string name="radio_info_phone_number_label">Phone number:</string>
+    <string name="radio_info_ping_hostname">Ping Hostname(www.google.com):</string>
+    <string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
+    <string name="radio_info_ppp_received_label">PPP received:</string>
+    <string name="radio_info_ppp_resets_label">Number of PPP reset since boot:</string>
+    <string name="radio_info_ppp_sent_label">PPP sent:</string>
+    <string name="radio_info_radio_resets_label">Radio resets:</string>
+    <string name="radio_info_roaming_label">Roaming:</string>
+    <string name="radio_info_set_perferred_label">Set preferred network type:</string>
+    <string name="radio_info_signal_location_label">Location:</string>
+    <string name="radio_info_signal_strength_label">Signal strength:</string>
+    <string name="radio_info_smsc_label">SMSC:</string>
+    <string name="radio_info_smsc_refresh_label">Refresh</string>
+    <string name="radio_info_smsc_update_label">Update</string>
+    <string name="radio_info_toggle_dns_check_label">Toggle DNS check</string>
+    <string name="roaming">Data roaming</string>
+    <string name="roaming_disable">Connect to data services when roaming</string>
+    <string name="roaming_enable">Connect to data services when roaming</string>
+    <string name="roaming_reenable_message">
+You have lost data connectivity because you left your home network with data roaming turned off.
+</string>
+    <string name="roaming_reenable_title">Allow data roaming?</string>
+    <string name="roaming_turn_it_on_button">Turn it on</string>
+    <string name="roaming_warning">
+When you allow data roaming, you may incur significant roaming charges!
+</string>
+    <string name="roaming_warning_multiuser" product="default">
+When you allow data roaming, you may incur significant roaming charges!\n\nThis setting affects all users on this phone.
+</string>
+    <string name="scale">蓝牙称重</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="sd_card_settings_label" product="default">SD card</string>
+    <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
+    <string name="sdcard_format" product="default">Erase SD card</string>
+    <string name="sdcard_setting" product="default">SD card</string>
+    <string name="sdcard_settings_available_bytes_label">Available bytes:</string>
+    <string name="sdcard_settings_bad_removal_status" product="default">SD card was removed while still in use!</string>
+    <string name="sdcard_settings_mass_storage_status" product="default">SD card is being used as a mass storage device.</string>
+    <string name="sdcard_settings_not_present_status" product="default">No SD card.</string>
+    <string name="sdcard_settings_read_only_status" product="default">SD card mounted read-only.</string>
+    <string name="sdcard_settings_scanning_status" product="default">Scanning SD card for media\u2026</string>
+    <string name="sdcard_settings_screen_mass_storage_text">Enable USB mass storage</string>
+    <string name="sdcard_settings_total_bytes_label">Total bytes:</string>
+    <string name="sdcard_settings_unmounted_status" product="default">It\'s now safe to remove the SD card.</string>
+    <string name="sdcard_settings_used_bytes_label">Used bytes:</string>
+    <string name="sdcard_unmount" product="default">Unmount SD card</string>
+    <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
+    <string name="security_enable_widgets_title">Enable widgets</string>
+    <string name="security_passwords_title">Passwords</string>
+    <string name="security_settings_summary">
+Set My Location, screen unlock, SIM card lock, credential storage lock
+</string>
+    <string name="security_settings_title">Security</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="send">Send</string>
+    <string name="settings_label">Settings</string>
+    <string name="settings_label_launcher">Settings</string>
+    <string name="settings_shortcut">Settings shortcut</string>
+    <string name="show_dev_already">No need, you are already a developer.</string>
+    <string name="show_dev_on">You are now a developer!</string>
+    <string name="show_owner_info_on_lockscreen_label">Show owner info on lock screen</string>
+    <string name="show_profile_info_on_lockscreen_label">Show profile info on lock screen</string>
+    <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
+    <string name="skip_label">Skip</string>
+    <string name="small_font">Small</string>
+    <string name="sms_over_ims_off">Turn off SMS over IMS</string>
+    <string name="sms_over_ims_on">Turn on SMS over IMS</string>
+    <string name="sum_carrier_select">Choose a network operator</string>
+    <string name="time_picker_title">Time</string>
+    <string name="title_connected_to">connected:</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="title_other_devices">其他可用设备</string>
+    <string name="title_paired_devices">配对的设备</string>
+    <string name="turn_off_radio">Turn off radio</string>
+    <string name="turn_on_radio">Turn on radio</string>
+    <string name="unlock_backup_info_summary">
+When Face Unlock can\'t see you, how do you want to unlock?
+</string>
+    <string name="unlock_change_lock_password_title">Change unlock password</string>
+    <string name="unlock_change_lock_pattern_title">Change unlock pattern</string>
+    <string name="unlock_change_lock_pin_title">Change unlock PIN</string>
+    <string name="unlock_disable_lock_password_summary">Remove unlock password</string>
+    <string name="unlock_disable_lock_pattern_summary">Remove unlock pattern</string>
+    <string name="unlock_disable_lock_pin_summary">Remove unlock PIN</string>
+    <string name="unlock_disable_lock_title">Turn off screen lock</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Low security, experimental</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
+    <string name="unlock_set_unlock_disabled_summary">
+Disabled by administrator, encryption policy, or credential storage
+</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">
+Change or disable pattern, PIN, or password security
+</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Change lock screen</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Choose a method to lock the screen</string>
+    <string name="unlock_set_unlock_launch_picker_title">Screen lock</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Face Unlock</string>
+    <string name="unlock_set_unlock_mode_none">Slide</string>
+    <string name="unlock_set_unlock_mode_off">None</string>
+    <string name="unlock_set_unlock_mode_password">Password</string>
+    <string name="unlock_set_unlock_mode_pattern">Pattern</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_none_summary">No security</string>
+    <string name="unlock_set_unlock_none_title">Slide</string>
+    <string name="unlock_set_unlock_off_summary"/>
+    <string name="unlock_set_unlock_off_title">None</string>
+    <string name="unlock_set_unlock_password_summary">High security</string>
+    <string name="unlock_set_unlock_password_title">Password</string>
+    <string name="unlock_set_unlock_pattern_summary">Medium security</string>
+    <string name="unlock_set_unlock_pattern_title">Pattern</string>
+    <string name="unlock_set_unlock_pin_summary">Medium to high security</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="user_info_settings_title">User info</string>
+    <string name="wireless_networks_settings_title">Wireless  networks</string>
+    <string name="yes">"Yes"</string>
+    <string name="zone_auto">Automatic time zone</string>
+    <string name="zone_auto_summaryOff">Use network-provided time zone</string>
+    <string name="zone_auto_summaryOn">Use network-provided time zone</string>
+    <string name="zone_list_menu_sort_alphabetically">Sort alphabetically</string>
+    <string name="zone_list_menu_sort_by_timezone">Sort by time zone</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.SearchResult" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult" parent="TextAppearance.AppCompat.Base.SearchResult">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Base.SearchResult.Subtitle"/>
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="TextAppearance.AppCompat.Base.SearchResult.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title"/>
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" parent="android:TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title" parent="android:TextAppearance.Medium">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse" parent="android:TextAppearance.Medium.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" parent="android:TextAppearance.Medium"/>
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" parent="android:TextAppearance.Medium.Inverse"/>
+    <style name="TextAppearance.AppCompat.Widget.Base.DropDownItem" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="TextAppearance.AppCompat.Widget.Base.DropDownItem"/>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"/>
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"/>
+    <style name="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+    <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item"/>
+    <style name="Theme.AppCompat" parent="Theme.Base.AppCompat">
+        <item name="isLightTheme">false</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+    <style name="Theme.AppCompat.Base.CompactMenu" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item</item>
+        <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
+    </style>
+    <style name="Theme.AppCompat.Base.CompactMenu.Dialog" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.AppCompat.Base.CompactMenu.Dialog</item>
+        <item name="android:listViewStyle">@android:style/Widget.ListView.Menu</item>
+    </style>
+    <style name="Theme.AppCompat.CompactMenu" parent="Theme.AppCompat.Base.CompactMenu"/>
+    <style name="Theme.AppCompat.CompactMenu.Dialog" parent="Theme.AppCompat.Base.CompactMenu.Dialog"/>
+    <style name="Theme.AppCompat.DialogWhenLarge" parent="Theme.Base.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.Light" parent="Theme.Base.AppCompat.Light">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.Light.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.Light.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_light</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_light</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_light</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear_holo_light</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search_api_holo_light</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go_search_api_holo_light</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search_api_holo_light</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_light</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.Light.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_light</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.Light.ActivityChooserView</item>
+    </style>
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light.DarkActionBar">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+    <style name="Theme.AppCompat.Light.DialogWhenLarge" parent="Theme.Base.AppCompat.Light.DialogWhenLarge"/>
+    <style name="Theme.Base" parent="android:Theme"/>
+    <style name="Theme.Base.AppCompat" parent="Theme.Base">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Dialog.FixedSize" parent="android:Theme.Dialog">
+        <item name="windowFixedWidthMajor">@dimen/dialog_fixed_width_major</item>
+        <item name="windowFixedWidthMinor">@dimen/dialog_fixed_width_minor</item>
+        <item name="windowFixedHeightMajor">@dimen/dialog_fixed_height_major</item>
+        <item name="windowFixedHeightMinor">@dimen/dialog_fixed_height_minor</item>
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Dialog.Light.FixedSize" parent="Theme.Base.AppCompat.Dialog.FixedSize"/>
+    <style name="Theme.Base.AppCompat.DialogWhenLarge" parent="Theme.Base.AppCompat"/>
+    <style name="Theme.Base.AppCompat.Light" parent="Theme.Base.Light">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_light</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_light</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_light</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">            @style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_light</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_light</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.Light.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">            @style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_light</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light">
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse</item>
+        <item name="actionBarWidgetTheme">@style/Theme.AppCompat</item>
+        <item name="actionBarDivider">@drawable/abc_list_divider_holo_dark</item>
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView.Inverse</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar.Inverse</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText.Inverse</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.Light.ActionMode.Inverse</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Theme.Base.AppCompat.Light.DialogWhenLarge" parent="Theme.Base.AppCompat.Light"/>
+    <style name="Theme.Base.Light" parent="android:Theme.Light"/>
+    <style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar"/>
+    <style name="Widget.AppCompat.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar.Solid"/>
+    <style name="Widget.AppCompat.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.ActionButton" parent="Widget.AppCompat.Base.ActionButton"/>
+    <style name="Widget.AppCompat.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.ActionMode" parent="Widget.AppCompat.Base.ActionMode"/>
+    <style name="Widget.AppCompat.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView"/>
+    <style name="Widget.AppCompat.AutoCompleteTextView" parent="Widget.AppCompat.Base.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.Base.ActionBar" parent="">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="homeLayout">@layout/abc_action_bar_home</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abc_ab_transparent_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_dark_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_dark_holo</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.TabBar" parent="">
+        <item name="divider">?attr/actionBarDivider</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">12dip</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.TabText" parent="">
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionBar.TabView" parent="">
+        <item name="android:background">@drawable/abc_tab_indicator_ab_holo</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionButton" parent="">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">@bool/abc_config_actionMenuItemAllCaps</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Base.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActionMode" parent="">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_dark</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">6dip</item>
+    </style>
+    <style name="Widget.AppCompat.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.Base.DropDownItem.Spinner" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ListView.Menu" parent="android:Widget.ListView.Menu">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style>
+    <style name="Widget.AppCompat.Base.PopupMenu" parent="@style/Widget.AppCompat.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Base.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:minWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:minHeight">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxHeight">@dimen/abc_action_bar_progress_bar_size</item>
+    </style>
+    <style name="Widget.AppCompat.Base.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal"/>
+    <style name="Widget.AppCompat.Base.Spinner" parent="">
+        <item name="spinnerMode">dropdown</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_dark</item>
+    </style>
+    <style name="Widget.AppCompat.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.ActionBar" parent="Widget.AppCompat.Light.Base.ActionBar"/>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar.Solid"/>
+    <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText" parent="Widget.AppCompat.Light.Base.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView" parent="Widget.AppCompat.Light.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.Light.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton.CloseMode"/>
+    <style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton.Overflow"/>
+    <style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="Widget.AppCompat.Light.Base.ActionMode.Inverse"/>
+    <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.Light.Base.ActivityChooserView"/>
+    <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.Light.Base.AutoCompleteTextView"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_transparent_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_light_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_light_holo</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Base.ActionBar.Solid">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView"/>
+    <style name="Widget.AppCompat.Light.Base.ActionButton" parent="Widget.AppCompat.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Light.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton"/>
+    <style name="Widget.AppCompat.Light.Base.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActionMode.Inverse" parent="Widget.AppCompat.Base.ActionMode">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView">
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.Base.PopupMenu" parent="@style/Widget.AppCompat.Light.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Light.Base.Spinner" parent="Widget.AppCompat.Base.Spinner">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_light</item>
+    </style>
+    <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.Light.Base.DropDownItem.Spinner"/>
+    <style name="Widget.AppCompat.Light.ListPopupWindow" parent="Widget.AppCompat.Light.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.Light.Base.ListView.DropDown"/>
+    <style name="Widget.AppCompat.Light.PopupMenu" parent="Widget.AppCompat.Light.Base.PopupMenu"/>
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Light.Base.Spinner"/>
+    <style name="Widget.AppCompat.ListPopupWindow" parent="Widget.AppCompat.Base.ListPopupWindow"/>
+    <style name="Widget.AppCompat.ListView.DropDown" parent="Widget.AppCompat.Base.ListView.DropDown"/>
+    <style name="Widget.AppCompat.ListView.Menu" parent="Widget.AppCompat.Base.ListView.Menu"/>
+    <style name="Widget.AppCompat.PopupMenu" parent="Widget.AppCompat.Base.PopupMenu"/>
+    <style name="Widget.AppCompat.ProgressBar" parent="Widget.AppCompat.Base.ProgressBar"/>
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Widget.AppCompat.Base.ProgressBar.Horizontal"/>
+    <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner"/>
+</resources>

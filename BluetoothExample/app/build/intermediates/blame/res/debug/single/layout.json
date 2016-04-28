@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ble_device.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\ble_device.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activitymain.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\activitymain.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_example.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\activity_example.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\other.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bluetooth.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\activity_bluetooth.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activitymain.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\activitymain.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_example.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\activity_example.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\other.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ble_device.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\src\\main\\res\\layout\\ble_device.xml"
+    },
+    {
+        "merged": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bluetooth.xml",
+        "source": "D:\\home\\jinlin\\workspace\\BluetoothExample\\app\\src\\main\\res\\layout\\activity_bluetooth.xml"
+    },
+    {
+        "merged": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\workspace_daoqun\\trunk\\android\\BluetoothExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    }
+]
